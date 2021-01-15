@@ -1,1 +1,1 @@
-# selenium
+Selenium tutorial sample pages
